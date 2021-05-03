@@ -2,9 +2,9 @@
 ## Hi, I'm Bobby!
 This readme will serve two audiences- those who I work with at my day job, and those who come across it organically.  
 
-💬 he/him  
-🏢 Senior Ruby Engineer @ TaskRabbit  
-🕗 US/Eastern  
+💬&nbsp;he/him  
+🏢&nbsp;Senior Ruby Engineer @ TaskRabbit  
+🕗&nbsp;US/Eastern  
 
 ### Working Style  
 I typically am available professionally from 9-5AM ET. Open source availability really depends on where I can fit it in to my schedule. If you need me outside of my normal availability, please let me know in advance so I can make accomodations.  
