@@ -3,7 +3,7 @@
 This readme will serve two audiences- those who I work with at my day job, and those who come across it organically.  
 
 💬  he/him  
-🏢  Senior Ruby Engineer @ TaskRabbit  
+🏢  Senior Software Engineer @ NexHealth  
 🕗  US/Eastern  
 
 ### Working Style  
