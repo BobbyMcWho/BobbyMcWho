@@ -17,3 +17,5 @@ Sometimes, it makes sense to communicate synchronously, so if that's the case, p
 ### Technologies
 I am most frequently writing Ruby, however I absolutely love Elixir as well. I touch JavaScript when I have to. 😆  
 While I'm not a devops person by title, I enjoy learning and contributing to CI/CD processes and optimizing time-to-run for things like test suites, Docker image builds, and deploys. 
+
+<a rel="me" href="https://ruby.social/@BobbyMcWho"> Follow me on ruby.social</a>
