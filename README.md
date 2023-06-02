@@ -3,7 +3,7 @@
 This readme will serve two audiences- those who I work with at my day job, and those who come across it organically.  
 
 💬  he/him  
-🏢  Senior Software Engineer @ NexHealth  
+🏢  Senior Software Engineer @ Bitfreighter  
 🕗  US/Eastern  
 
 ### Working Style  
