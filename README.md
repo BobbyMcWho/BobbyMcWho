@@ -15,7 +15,7 @@ I really try to embrace async communication where it makes sense to. I've been w
 Sometimes, it makes sense to communicate synchronously, so if that's the case, put a meeting on my calendar if you'll need a chunk of time or a video call, otherwise feel free to instant message me. 
 
 ### Technologies
-I am primarily an Elixir devloper these days, but have extensive experience with Ruby and Ruby on Rails. I touch JavaScript when I have to. 😆 I have moerate experience with React, Vue, and Phoenix LiveView. 
+I am primarily an Elixir devloper these days, but have extensive experience with Ruby and Ruby on Rails. I have moderate experience with React, Vue, and Phoenix LiveView. 
 While I'm not a devops person by title, I enjoy learning and contributing to CI/CD processes and optimizing time-to-run for things like test suites, Docker image builds, and deploys. 
 
 <a rel="me" href="https://ruby.social/@BobbyMcWho"> Follow me on ruby.social</a>
