@@ -18,4 +18,3 @@ Sometimes, it makes sense to communicate synchronously, so if that's the case, p
 I am primarily an Elixir devloper these days, but have extensive experience with Ruby and Ruby on Rails. I have moderate experience with React, Vue, and Phoenix LiveView. 
 While I'm not a devops person by title, I enjoy learning and contributing to CI/CD processes and optimizing time-to-run for things like test suites, Docker image builds, and deploys. 
 
-<a rel="me" href="https://ruby.social/@BobbyMcWho"> Follow me on ruby.social</a>
